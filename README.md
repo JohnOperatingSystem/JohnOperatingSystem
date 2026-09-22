@@ -32,7 +32,7 @@ Built an object-oriented computer vision pipeline combining player tracking, bal
 
 ### RISC-V ALU Verification
 
-Developed a SystemVerilog/UVM verification environment for **10 RV32I ALU functions**, achieving **100% functional coverage across 1,050 transactions** with zero UVM errors.
+To gain exposure to system verification, I developed a SystemVerilog/UVM verification environment for **10 RV32I ALU functions**, achieving **100% functional coverage across 1,050 transactions**.
 
 ### 16-bit Arithmetic Processor
 
